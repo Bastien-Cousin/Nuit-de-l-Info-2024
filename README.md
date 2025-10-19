@@ -1,5 +1,5 @@
 # Nuit de l'Informatique 2024
-Projet de la Nuit de l'Informatique du 5 décembre 2024 pendant la 1ère année
+Projet de la Nuit de l'Informatique du 5 décembre 2024 pendant ma 1ère année
 ## Présentation
 La Nuit de l'Informatique est un concours national annuel d'informatique entre étudiants de tous les niveaux (de Bac+1 à Bac+8), qui se déroulent par équipe (nombres d'étudiants au choix). Ce coucours n'est pas obligatoire et tous les étudiants en informatique peuvent y participer ou non.  
 Chaque année, une organisation propose un "défi principal", qui est le plus gros défi et celui auquel tous les étudiants doivent participer.  
